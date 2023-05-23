@@ -1,2 +1,2 @@
-# CISB 60 Model Deployment Lab Assignment
- 
+# model-deployment-example
+An example of deploying a machine learning model utilizing the Flask framework
